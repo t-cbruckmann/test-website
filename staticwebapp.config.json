@@ -13,7 +13,7 @@
 "Name": "Snippet2",
 "Content":"<h2> I'm a second snippet! </h2>",
 "TargetElement" : "body/main",
-"InsertBottom" : true,
+"InsertBottom" : false,
 "Priority" : 0,
 "TargetPages":["index.html"],
 "Toggle":true
