@@ -2,8 +2,8 @@
 "snippets": [
 {
 "Name": "Snippet1",
-"Content":"<title> Snippet Testing </title>",
-"TargetElement" : "head",
+"Content":"<h1> I am a snippet! </h1>",
+"TargetElement" : "body",
 "InsertBottom"  : true,
 "Priority" : 0,
 "TargetPages":["index.html"],
@@ -11,7 +11,7 @@
 },
 {
 "Name": "Snippet2",
-"Content":"<h2> I'm a SNIPPET! </h2>",
+"Content":"<h2> I'm a second snippet! </h2>",
 "TargetElement" : "body/main",
 "InsertBottom" : true,
 "Priority" : 0,
