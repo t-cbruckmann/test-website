@@ -11,7 +11,7 @@
 },
 {
 "Name": "Snippet2",
-"Content":"<h2> I'm a second snippet! </h2>",
+"Content":"<h2> Hi Skyla! </h2>",
 "TargetElement" : "body/main",
 "InsertBottom" : false,
 "Priority" : 0,
