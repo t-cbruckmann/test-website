@@ -14,7 +14,7 @@
 "Content":"<h2> Hi Skyla! </h2>",
 "TargetElement" : "body/main",
 "InsertBottom" : false,
-"Priority" : 0,
+"Priority" : 1,
 "TargetPages":["index.html"],
 "Toggle":true
 }
