@@ -11,11 +11,11 @@
 },
 {
 "Name": "Snippet2",
-"Content":"<h2> Hi Skyla! </h2>",
+"Content":"<h2> Hello Everyone! </h2>",
 "TargetElement" : "body/main",
 "InsertBottom" : false,
 "Priority" : 1,
-"TargetPages":["index.html"],
+"TargetPages":["index2.html"],
 "Toggle":true
 }
 
