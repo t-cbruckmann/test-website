@@ -2,7 +2,7 @@
 "snippets": [
 {
 "Name": "Snippet1",
-"Content":"<h1> Snippet #1! </h1>",
+"Content":"<h1> Snippet #1!! </h1>",
 "TargetElement" : "body",
 "InsertBottom"  : true,
 "Priority" : 0,
