@@ -6,7 +6,7 @@
 "TargetElement" : "body",
 "InsertBottom"  : true,
 "Priority" : 0,
-"TargetPages":["all"],
+"TargetPages":["index.html"],
 "Toggle":true
 },
 {
